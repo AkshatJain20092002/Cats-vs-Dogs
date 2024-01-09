@@ -8,7 +8,9 @@ This project aims to classify images of cats and dogs using deep learning. Two d
 
 ## Getting Started
 cats-vs-dogs-classification/
+
 │
+
 ├── dataset/
 
 │   ├── train/
