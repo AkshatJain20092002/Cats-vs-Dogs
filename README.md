@@ -10,10 +10,15 @@ This project aims to classify images of cats and dogs using deep learning. Two d
 cats-vs-dogs-classification/
 │
 ├── dataset/
+
 │   ├── train/
+
 │   │   ├── cats/
+
 │   │   └── dogs/
+
 │   └── test/
+
 │       └── test1/
 
 ### Prerequisites
